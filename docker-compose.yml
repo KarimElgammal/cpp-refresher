@@ -1,0 +1,9 @@
+services:
+  study-cpp:
+    build: .
+    volumes:
+      - .:/code
+    working_dir: /code
+    command: /bin/bash
+    tty: true
+    stdin_open: true
