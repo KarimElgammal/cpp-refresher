@@ -1,4 +1,5 @@
 // polymorphism_virtual_func.cpp
+//inspired from https://youtu.be/4NPOIaUxnnk?si=zoSvnuL31JKYdeXN
 #include<iostream>
 using namespace std;
 
